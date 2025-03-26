@@ -8,6 +8,7 @@ void calculator()
     scanf(" %c", &operator);
     printf("Enter two numbers: ");
     scanf("%lf %lf", &num1, &num2);
+    
     switch (operator) 
     {
         case '+':
