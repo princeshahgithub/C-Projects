@@ -1,9 +1,8 @@
-![GitHub stars](https://img.shields.io/github/stars/princeshahgithub/C-Projects?style=social)
+![GitHub stars](https://img.shields.io/github/stars/princeshahgithub/C-Projects?style=social&v=1)
 ![GitHub forks](https://img.shields.io/github/forks/princeshahgithub/C-Projects?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/princeshahgithub/C-Projects)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/princeshahgithub/C-Projects)
 ![GitHub license](https://img.shields.io/github/license/princeshahgithub/C-Projects)
-
 
 🚀 C Programming Projects
 A collection of beginner-friendly C programming projects, covering basic to intermediate concepts.
