@@ -2,7 +2,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/princeshahgithub/C-Projects?style=social)
 ![GitHub license](https://img.shields.io/github/license/princeshahgithub/C-Projects)
 
-
 🚀 C Programming Projects
 A collection of beginner-friendly C programming projects, covering basic to intermediate concepts.
 
@@ -22,7 +21,6 @@ cd C-Projects
 Compile and Run a project using GCC:
 gcc project_name.c -o project_name
 ./project_name
-
 
 🌟 Contributions
 Want to improve the projects? Feel free to open issues or create a pull request!
